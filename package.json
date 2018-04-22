@@ -1,0 +1,31 @@
+{
+  "name": "Chatfuel-Broadcast-for-MYEO",
+  "version": "0.0.1",
+  "description": "Broadcast messages from messenger (To make bot send messages to other)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "chatfuel-broadcast": "^1.0.0",
+    "pug": "^2.0.3",
+    "body-parser": "^1.18.2",
+    "multer": "^1.3.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/myeo-chatfuelbroadcast"
+  },
+  "license": "MIT",
+  "keywords": [
+    "messenger",
+    "bot",
+    "chatfuel",
+    "broadcast",
+    "myeo",
+    "express",
+    "glitch"
+  ]
+}
